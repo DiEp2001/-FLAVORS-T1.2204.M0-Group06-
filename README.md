@@ -1,5 +1,5 @@
 # -FLAVORS-_-Group06-
-[Your project Title]
+FLAVORS
 
 =======================================
 
