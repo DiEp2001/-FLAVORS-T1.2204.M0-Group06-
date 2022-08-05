@@ -7,9 +7,9 @@
 
 + Semester: I
 
-+ Batch No: [Your class name]
++ Batch No: T1.2204.M0
 
-+ Group No: [your group no]
++ Group No: 06
 
 + List Of Member:
 
@@ -18,8 +18,8 @@
      2. Đào Đức Bình (Student1376110)
 
      3. Nguyễn Ngọc Điệp (Student1376121)
-
-     4.Vũ Văn Cao Trí (Student1376119)
+     
+     4. Vũ Văn Cao Trí (Student1376119)
      
 =======================================
 
