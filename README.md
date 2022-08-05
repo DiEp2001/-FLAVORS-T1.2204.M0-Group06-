@@ -27,7 +27,7 @@ Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentatio
 
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://diep2001.github.io/-FLAVORS-_-Group06-/
 
 =======================================
 
