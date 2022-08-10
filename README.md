@@ -23,7 +23,7 @@ FLAVORS
      
 =======================================
 
-Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
+Documentations : https://tinyurl.com/mr2ed3zw
 
 =======================================
 
