@@ -23,7 +23,7 @@ FLAVORS
      
 =======================================
 
-Documentations : https://tinyurl.com/4x83atst
+Documentations : https://tinyurl.com/2s4dx2tv
 
 =======================================
 
