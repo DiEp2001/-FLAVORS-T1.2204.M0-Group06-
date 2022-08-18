@@ -2,22 +2,7 @@
 *:focus {
   outline: none;
 }
-.banner1{
-	border: 1px solid black;
-	width:50% ;
-	padding: 15px 15px;
-  }
-  .banner2{
-	border: 1px solid black;
-	width:50% ;
-	padding: 15px 15px;
-  }
-  .menu{
-	width: 100%;
-	background-color: rgb(246, 165, 15);
-	overflow: auto;
-  }
-  .menu a{
+.menu a{
 	width: 12%;
 	float: left;
 	text-align: center;
@@ -30,27 +15,49 @@
 	color: red;
 	background-color: rgb(246, 201, 119);
   }
-  .icons{
-	padding-top: 3px;
+  body{
+    background-image: url('background.jpg');
   }
-/* body {
-  margin: 0;
-  padding: 0;
-  background-image: url('background.jpg');
-  font-size: 16px;
-  color: #222;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-} */
+  .banner1{
+    border: 1px solid black;
+    width:50% ;
+    padding: 15px 15px;
+}
+.banner2{
+    border: 1px solid black;
+    width:50% ;
+    padding: 15px 15px;
+}
+.menu{
+    width: 100%;
+    background-color: rgb(246, 165, 15);
+    overflow: auto;
+}
+.menu a{
+    width: 14%;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 10px; 
+    color: white;
+}
+.menu a:hover{
+    color: red;
+    background-color: rgb(246, 201, 119);
+}
+.icons{
+    padding-top: 3px;
+}
 
 #login-box {
   position: relative;
-  margin: 5% auto;
-  width: 600px;
-  height: 400px;
+  margin: 7% auto;
+  width: 650px;
+  height: 500px;
   background: #FFF;
-  border-radius: 2px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
 }
 
 .left {
@@ -122,8 +129,8 @@ input[type="submit"]:active {
 
 .or {
   position: absolute;
-  top: 180px;
-  left: 280px;
+  top: 220px;
+  left: 320px;
   width: 40px;
   height: 40px;
   background: #DDD;
@@ -135,10 +142,10 @@ input[type="submit"]:active {
 
 .right {
   position: absolute;
-  top: 0;
+  top: 20;
   right: 0;
   box-sizing: border-box;
-  padding: 40px;
+  padding: 50px;
   width: 300px;
   height: 400px;
   background: url('https://goo.gl/YbktSj');
