@@ -27,7 +27,7 @@ Documentations : https://github.com/DiEp2001/-FLAVORS-_-Group06-/tree/main/Docum
 
 =======================================
 
-Published website : https://diep2001.github.io/-FLAVORS-_-Group06-/
+Published website :  https://diep2001.github.io/-FLAVORS-_-Group06-/
 
 =======================================
 
