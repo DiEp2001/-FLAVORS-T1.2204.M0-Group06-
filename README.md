@@ -23,7 +23,7 @@ FLAVORS
      
 =======================================
 
-Documentations : https://tinyurl.com/2s4dx2tv
+Documentations : https://github.com/DiEp2001/-FLAVORS-_-Group06-/tree/main/Documentations
 
 =======================================
 
